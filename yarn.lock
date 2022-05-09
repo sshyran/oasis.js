@@ -761,7 +761,7 @@
   resolved "https://registry.yarnpkg.com/@lerna/gitlab-client/-/gitlab-client-3.15.0.tgz#91f4ec8c697b5ac57f7f25bd50fe659d24aa96a6"
   integrity sha512-OsBvRSejHXUBMgwWQqNoioB8sgzL/Pf1pOUhHKtkiMl6aAWjklaaq5HPMvTIsZPfS6DJ9L5OK2GGZuooP/5c8Q==
   dependencies:
-    node-fetch "^2.5.0"
+    node-fetch "2.6.7"
     npmlog "^4.1.2"
     whatwg-url "^7.0.0"
 
